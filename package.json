@@ -1,0 +1,30 @@
+{
+  "dependencies": {
+    "inquirer": "^8.2.2",
+    "jest": "^27.5.1"
+  },
+  "name": "team-profile-generator",
+  "description": "Team profile generator challenge",
+  "version": "1.0.0",
+  "main": "employee.js",
+  "directories": {
+    "test": "tests"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JalenAtkinson12/Team-Profile-Generator.git"
+  },
+  "keywords": [
+    "[]"
+  ],
+  "author": "\"\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JalenAtkinson12/Team-Profile-Generator/issues"
+  },
+  "homepage": "https://github.com/JalenAtkinson12/Team-Profile-Generator#readme"
+}
